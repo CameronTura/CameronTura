@@ -5,6 +5,6 @@
 
 (he/him)
 
-- 🌱 Currently learning Python and C#, possibly moving towards C++
-- ⚡ Interest in sound-design and creating VSTs
+- 🌱 Currently learning Python using Django framework, possibly moving towards C# .NET
+- ⚡ Interest in web applications with strong back-end
 - 🔍 Keen interest on creating interesting GUI design and accompanying audio
