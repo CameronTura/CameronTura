@@ -5,6 +5,6 @@
 
 (he/him)
 
-- 🌱 Currently learning Python using Django framework and React, possibly moving towards C# .NET
+- 🌱 Currently using Python, Django framework and React, possibly moving towards C# .NET
 - ⚡ Interest in web applications with strong back-ends and clean front ends
 - 🔍 Keen interest on creating interesting GUI design and accompanying audio
